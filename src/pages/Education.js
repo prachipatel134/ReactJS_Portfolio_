@@ -23,7 +23,7 @@ function Education() {
                                 <div className="card-body">
                                     <h5 className="card-title fw-bold p-2" style={{border:"1px solid black"}}><span style={{color:"#286f6f"}}>Diploma - Computer Engineering </span><span className="h6" style={{color:"black"}}>| SREZ College Of Engineering Rajkot.</span></h5>
                                     <p className="mb-0">JUNE-2018 TO JUNE-2021</p>
-                                    <small>I have complated my Diploma in Computer Engineering(Softwear Engineering) with 8.72/10 CGPA.</small>
+                                    <small>I have completed my Diploma in Computer Engineering(Softwear Engineering) with 8.72/10 CGPA.</small>
                                 </div>
                             </div>
                         </div>
